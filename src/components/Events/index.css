@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.main-bg-container {
+  display: flex;
+}
+.bg-container {
+  background-color: #323f4b;
+  padding: 30px;
+  width: 60vw;
+}
+.heading-eve {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 26px;
+}
+.unOrderList {
+  width: 60vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
